@@ -1,18 +1,18 @@
 # andijonlikdasturchi
 
 <h1>Welcome to Ulug'bek Yo'ldoshev profile!</h1>
- <h2>
- <span>Yo'ldoshev</span> <span>Ulug'bek</span>
-</h2>
-background: #07252d;
-h2{
+ <h2 style="
     position: relative;
     font-size: 6em;
     color: #0e3742;
     text-transform: uppercase;
     width: 100%;
     text-align: center;
-    -webkit-box-reflect: below -42px linear-gradient(transparent,#0004);
+    -webkit-box-reflect: below -42px linear-gradient(transparent,#0004);">
+ <span>Yo'ldoshev</span> <span>Ulug'bek</span>
+</h2>
+background: #07252d;
+
     
 }
 h2 span{
