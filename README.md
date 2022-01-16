@@ -1,31 +1,11 @@
 # andijonlikdasturchi
 
 <h1>Welcome to Ulug'bek Yo'ldoshev profile!</h1>
-<!doctype html>
-<html>
-    <head>
-        <title>Animatsiya</title>
-    </head>
-    
-    <body>
-        <h2>
-            <span>Yo'ldoshev</span> <span>Ulug'bek</span>
-        </h2>
-    </body>
-    <style>
-        *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
-}
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background: #07252d;
-}
+ <h2>
+ <span>Yo'ldoshev</span> <span>Ulug'bek</span>
+</h2>
+<style>
+background: #07252d;
 h2{
     position: relative;
     font-size: 6em;
@@ -59,6 +39,4 @@ h2 span:nth-child(even){
     }
 
 }
-    </style>
-
-</html>
+</style>
