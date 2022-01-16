@@ -4,7 +4,6 @@
  <h2>
  <span>Yo'ldoshev</span> <span>Ulug'bek</span>
 </h2>
-<style>
 background: #07252d;
 h2{
     position: relative;
@@ -39,4 +38,4 @@ h2 span:nth-child(even){
     }
 
 }
-</style>
+
