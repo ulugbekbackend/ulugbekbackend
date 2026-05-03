@@ -114,8 +114,8 @@ class UlugbekYuldoshev:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulugbekbackend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulugbekbackend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ulugbekbackend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ulugbekbackend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" height="170" />
 
 <br/>
 
