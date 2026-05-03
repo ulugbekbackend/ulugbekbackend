@@ -29,9 +29,6 @@
 
 </div>
 
----
-
-
 ## 🧑‍💻 About Me
 
 ```python
@@ -60,8 +57,6 @@ class UlugbekYuldoshev:
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding gif" />
 
-
----
 
 ## 🛠 Tech Stack
 
@@ -108,8 +103,6 @@ class UlugbekYuldoshev:
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -127,15 +120,12 @@ class UlugbekYuldoshev:
 
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ulugbekbackend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </div>
 
----
 
 ## ⚡ Fun Facts
 
@@ -145,7 +135,6 @@ class UlugbekYuldoshev:
 - 📚 Self-taught **React** developer — learning by building
 - 🧠 Always curious about **scalable system design**
 
----
 
 <div align="center">
 
