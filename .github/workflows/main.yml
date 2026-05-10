@@ -1,29 +1,45 @@
 name: generate animation
-
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
-
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - name: generate github-contribution-grid-snake-dark.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ulugbekbackend
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300F7FF&color_dots=%23161b22,%23003847,%23005f73,%23008ea3,%2300F7FF&color_background=%230d1117
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300F7FF&color_dots=%23161b22,%23003847,%23005f73,%23008ea3,%2300F7FF
+
+      - name: add background color to svg
+        run: |
+          python3 - <<'EOF'
+          file = "dist/github-contribution-grid-snake-dark.svg"
+          bg_color = "#0d1117"
+
+          with open(file, "r") as f:
+            content = f.read()
+
+          rect = f'<rect x="-16" y="-32" width="880" height="192" fill="{bg_color}"/>'
+
+          content = content.replace("<svg ", f"<svg ", 1)
+          idx = content.index(">")
+          content = content[:idx+1] + rect + content[idx+1:]
+
+          with open(file, "w") as f:
+            f.write(content)
+
+          print(f"Done! Background {bg_color} added.")
+          EOF
 
       - name: push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
