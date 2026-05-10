@@ -118,6 +118,10 @@ class UlugbekYuldoshev:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulugbekbackend&theme=tokyo-night&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true" />
 
+<br/>
+
+<img  width="100%" src="https://github.com/ulugbekbackend/ulugbekbackend/blob/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 ## 🏆 GitHub Trophies
