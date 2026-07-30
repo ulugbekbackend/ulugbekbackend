@@ -112,8 +112,9 @@ class UlugbekYuldoshev:
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ulugbekbackend&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=ff6b6b&currStreakLabel=00F7FF" />
+<!-- <img src="https://streak-stats.demolab.com?user=ulugbekbackend&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=ff6b6b&currStreakLabel=00F7FF" /> -->
 
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ulugbekbackend&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=ff6b6b&currStreakLabel=00F7FF" />
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulugbekbackend&theme=tokyo-night&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true" />
