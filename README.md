@@ -105,17 +105,15 @@ class UlugbekYuldoshev:
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ulugbekbackend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" height="170" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ulugbekbackend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" height="170" />
 
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=ulugbekbackend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ulugbekbackend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" />
 <br/>
-
-<!-- <img src="https://streak-stats.demolab.com?user=ulugbekbackend&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=ff6b6b&currStreakLabel=00F7FF" /> -->
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ulugbekbackend&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=ff6b6b&currStreakLabel=00F7FF" />
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ulugbekbackend&theme=tokyo-night&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph-eight.vercel.app/graph?username=ulugbekbackend&theme=tokyo-night&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true" />
 
 <br/>
 
