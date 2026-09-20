@@ -13,11 +13,9 @@
 <a href="https://ulugbekdev.uz">
   <img alt="Website" src="https://img.shields.io/badge/Website-ulugbekdev.uz-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00F7FF&labelColor=0d1117" />
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/ulugbekdev">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
-&nbsp;
 <a href="mailto:yuldoshevulugbek2004@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
@@ -133,7 +131,6 @@ class UlugbekYuldoshev:
 <a href="mailto:yuldoshevulugbek2004@gmail.com">
   <img alt="Email Me" src="https://img.shields.io/badge/Email_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" />
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/ulugbekdev">
   <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0d1117?style=for-the-badge&logoColor=0077B5" />
 </a>
