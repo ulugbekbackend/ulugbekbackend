@@ -39,7 +39,7 @@ class UlugbekYuldoshev:
         self.location   = "Andijan, Uzbekistan"
         self.education  = "MohirDev — Full Stack Python"
         self.website    = "https://ulugbekdev.uz"
-        self.languages  = ["Python", "JavaScript"]
+        self.languages  = ["Python", "JavaScript", "TypeScript"]
         self.interests  = [
             "Scalable Backend Systems",
             "REST API Design",
@@ -49,8 +49,8 @@ class UlugbekYuldoshev:
 
     def currently(self):
         return {
-            "learning":  "React ⚛️ + Docker 🐳",
-            "building":  "Real-world automation tools",
+            "learning":  "System Design & Cloud Deployment 🚢",
+            "building":  "Full-stack platforms & Telegram bots 🤖",
             "open_to":   "Freelance & Collaboration 🤝",
         }
 ```
@@ -111,11 +111,12 @@ class UlugbekYuldoshev:
 
 ## ⚡ Fun Facts
 
-- 🤖 Love building **Telegram bots** and automation systems
+- 🤖 Build **Telegram bots** and automation — from translator bots to local-LLM chat
+- 🏗️ Shipped a **6-role school management platform** end to end, API to SPA
+- 🚢 Deploy with **Docker, Nginx and GitHub Actions**
 - 🔌 Tinker with **Arduino & ESP** microcontrollers in free time
-- 🚢 Exploring **Docker & CI/CD** for production deployments
-- 📚 Self-taught **React** developer — learning by building
 - 🧠 Always curious about **scalable system design**
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&fontColor=00F7FF&animation=fadeIn" />
