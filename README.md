@@ -14,11 +14,6 @@
 <a href="https://linkedin.com/in/ulugbekdev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
 <a href="mailto:yuldoshevulugbek2004@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 
-<br/>
-<br/>
-
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=ulugbekbackend&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS" />
-
 </div>
 
 ## 🧑‍💻 About Me
@@ -112,7 +107,6 @@ class UlugbekYuldoshev:
 - 🏗️ Shipped a **6-role school management platform** end to end, API to SPA
 - 🚢 Deploy with **Docker, Nginx and GitHub Actions**
 - 🔌 Tinker with **Arduino & ESP** microcontrollers in free time
-- 🧠 Always curious about **scalable system design**
 
 ---
 
