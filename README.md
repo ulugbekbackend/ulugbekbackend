@@ -60,44 +60,28 @@ class UlugbekYuldoshev:
 
 <div align="center">
 
-### ⚙️ Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" />
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" />
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square)
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=dark" />
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-### 🚀 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,nginx,linux,vscode&theme=dark" />
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### 🔌 Embedded & Electronics
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFD700?style=flat-square)
+<table>
+  <tr>
+    <td align="right" width="150"><b>⚙️&nbsp; Backend</b></td>
+    <td><img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=0C4B33" /> <img src="https://img.shields.io/badge/DRF-0d1117?style=flat-square&logo=django&logoColor=A30000" /> <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/aiogram-0d1117?style=flat-square&logo=telegram&logoColor=2CA5E0" /> <img src="https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic&logoColor=E92063" /> <img src="https://img.shields.io/badge/pytest-0d1117?style=flat-square&logo=pytest&logoColor=0A9EDC" /></td>
+  </tr>
+  <tr>
+    <td align="right" width="150"><b>🗄️&nbsp; Databases</b></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" /> <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57" /> <img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00" /></td>
+  </tr>
+  <tr>
+    <td align="right" width="150"><b>🎨&nbsp; Frontend</b></td>
+    <td><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" /> <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css&logoColor=1572B6" /> <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" /></td>
+  </tr>
+  <tr>
+    <td align="right" width="150"><b>🚀&nbsp; DevOps &amp; Tools</b></td>
+    <td><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639" /> <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624" /> <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF" /> <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC" /></td>
+  </tr>
+  <tr>
+    <td align="right" width="150"><b>🔌&nbsp; Embedded</b></td>
+    <td><img src="https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D" /> <img src="https://img.shields.io/badge/ESP--IDF-0d1117?style=flat-square&logo=espressif&logoColor=E7352C" /></td>
+  </tr>
+</table>
 
 </div>
 
