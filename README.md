@@ -4,7 +4,7 @@
 <img alt="Ulugbek Yuldoshev — Python Backend Engineer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ulugbek%20Yuldoshev&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=ffffff&descSize=18" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building%20REST%20APIs%20%26%20Automation%20%F0%9F%94%A7;Django%20REST%20%C2%B7%20FastAPI%20%C2%B7%20PostgreSQL%20%F0%9F%9A%80;Telegram%20Bots%20%26%20Mini%20Apps%20%F0%9F%A4%96;React%20%C2%B7%20TypeScript%20%C2%B7%20Tailwind%20%E2%9A%9B%EF%B8%8F;Celery%20%C2%B7%20Redis%20%C2%B7%20Docker%20%F0%9F%90%B3" alt="What I build" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building%20REST%20APIs%20%26%20Automation%20%F0%9F%94%A7;Django%20REST%20%C2%B7%20FastAPI%20%C2%B7%20PostgreSQL%20%F0%9F%9A%80;Telegram%20Bots%20%26%20Mini%20Apps%20%F0%9F%A4%96;React%20%C2%B7%20JavaScript%20%C2%B7%20Tailwind%20%E2%9A%9B%EF%B8%8F;Celery%20%C2%B7%20Redis%20%C2%B7%20Docker%20%F0%9F%90%B3" alt="What I build" />
 
 <br/>
 <br/>
@@ -30,7 +30,7 @@ class UlugbekYuldoshev:
         self.location   = "Andijan, Uzbekistan"
         self.education  = "MohirDev — Full Stack Python"
         self.website    = "https://ulugbekdev.uz"
-        self.code       = ["Python", "JavaScript", "TypeScript"]
+        self.code       = ["Python", "JavaScript"]
         self.speaks     = ["Uzbek (native)", "English (intermediate)"]
         self.interests  = [
             "Scalable Backend Systems",
@@ -41,7 +41,7 @@ class UlugbekYuldoshev:
 
     def currently(self):
         return {
-            "learning":  "System Design & Cloud Deployment 🚢",
+            "learning":  "TypeScript, System Design & Cloud Deployment 🚢",
             "building":  "Full-stack platforms & Telegram bots 🤖",
             "open_to":   "Freelance & Collaboration 🤝",
         }
@@ -59,7 +59,7 @@ class UlugbekYuldoshev:
   </tr>
   <tr>
     <td align="right" width="150"><b>🤖&nbsp; Bots &amp; AI</b></td>
-    <td><img alt="aiogram" src="https://img.shields.io/badge/aiogram-0d1117?style=flat-square&logo=telegram&logoColor=2CA5E0" /> <img alt="Telegram Mini Apps" src="https://img.shields.io/badge/Telegram%20Mini%20Apps-0d1117?style=flat-square&logo=telegram&logoColor=2CA5E0" /> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=FFFFFF" /></td>
+    <td><img alt="aiogram" src="https://img.shields.io/badge/aiogram-0d1117?style=flat-square&logo=telegram&logoColor=2CA5E0" /> <img alt="Telegram Mini Apps" src="https://img.shields.io/badge/Telegram%20Mini%20Apps-0d1117?style=flat-square&logo=telegram&logoColor=2CA5E0" /> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=FFFFFF" /> <img alt="Claude" src="https://img.shields.io/badge/Claude-0d1117?style=flat-square&logo=claude&logoColor=D97757" /></td>
   </tr>
   <tr>
     <td align="right" width="150"><b>🗄️&nbsp; Databases</b></td>
@@ -67,7 +67,7 @@ class UlugbekYuldoshev:
   </tr>
   <tr>
     <td align="right" width="150"><b>🎨&nbsp; Frontend</b></td>
-    <td><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img alt="Vite" src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" /> <img alt="React Router" src="https://img.shields.io/badge/React%20Router-0d1117?style=flat-square&logo=reactrouter&logoColor=CA4245" /> <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-0d1117?style=flat-square&logo=reactquery&logoColor=FF4154" /> <img alt="Zustand" src="https://img.shields.io/badge/Zustand-0d1117?style=flat-square" /> <img alt="Axios" src="https://img.shields.io/badge/Axios-0d1117?style=flat-square&logo=axios&logoColor=5A29E4" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css&logoColor=1572B6" /> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" /></td>
+    <td><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="TypeScript (learning)" src="https://img.shields.io/badge/TypeScript_%28learning%29-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img alt="Vite" src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" /> <img alt="React Router" src="https://img.shields.io/badge/React%20Router-0d1117?style=flat-square&logo=reactrouter&logoColor=CA4245" /> <img alt="Axios" src="https://img.shields.io/badge/Axios-0d1117?style=flat-square&logo=axios&logoColor=5A29E4" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css&logoColor=1572B6" /> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" /></td>
   </tr>
   <tr>
     <td align="right" width="150"><b>🚀&nbsp; DevOps &amp; Tools</b></td>
@@ -75,7 +75,7 @@ class UlugbekYuldoshev:
   </tr>
   <tr>
     <td align="right" width="150"><b>🔌&nbsp; Embedded</b></td>
-    <td><img alt="Arduino" src="https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D" /> <img alt="ESP" src="https://img.shields.io/badge/ESP--IDF-0d1117?style=flat-square&logo=espressif&logoColor=E7352C" /></td>
+    <td><img alt="Arduino" src="https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D" /> <img alt="ESP" src="https://img.shields.io/badge/ESP-0d1117?style=flat-square&logo=espressif&logoColor=E7352C" /></td>
   </tr>
 </table>
 
@@ -106,6 +106,7 @@ class UlugbekYuldoshev:
 - 🤖 Build **Telegram bots** and automation — from translator bots to local-LLM chat
 - 🏗️ Shipped a **6-role school management platform** end to end, API to SPA
 - 🚢 Deploy with **Docker, Nginx and GitHub Actions**
+- 🧠 Use **Claude Code** daily for code review, refactoring and docs, with custom skills and project rules to keep AI output under control
 - 🔌 Tinker with **Arduino & ESP** microcontrollers in free time
 
 ---
