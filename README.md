@@ -27,7 +27,7 @@ class UlugbekYuldoshev:
     def __init__(self):
         self.name       = "Ulugbek Yuldoshev"
         self.role       = "Python Backend Engineer & Full Stack Developer"
-        self.location   = "Andijan, Uzbekistan"
+        self.location   = "Tashkent, Uzbekistan"
         self.education  = "MohirDev — Full Stack Python"
         self.website    = "https://ulugbekdev.uz"
         self.code       = ["Python", "JavaScript"]
